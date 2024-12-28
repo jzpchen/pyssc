@@ -9,4 +9,4 @@ async-timeout==4.0.2
 ifaddr==0.2.0
     # via zeroconf
 zeroconf==0.39.1
-    # via pyssc (setup.py)
+    # via -r requirements.in
